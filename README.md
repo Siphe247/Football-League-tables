@@ -6,6 +6,6 @@ Football League tables for Europe's top 5 leagues:
 4. Serie A🇮🇹
 5. La Liga🇪🇸
 
-alongisde Eredivisie🇳🇱 and the Betway Premiership🇿🇦
+alongisde Liga Portugal🇵🇹, Eredivisie🇳🇱 and the Betway Premiership🇿🇦.
 
-I will be creating the tables for the other leagues.
+⏳I will be creating the tables for the other leagues.
