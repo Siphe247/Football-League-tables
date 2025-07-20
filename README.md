@@ -1,5 +1,5 @@
 # Current Football-League-tables
-Football League tables for Europe's top 5 leagues and the Betway Premiership🇿🇦:
+Football League tables for Europe's top 5 leagues, the UEFA Champions League🇪🇺 and the Betway Premiership🇿🇦:
 1. The Premier League🏴󠁧󠁢󠁥󠁮󠁧󠁿
 2. Ligue 1🇫🇷
 3. Bundesliga🇩🇪
@@ -26,6 +26,8 @@ Serie A🇮🇹
 LaLiga🇪🇸
 ![image_alt](https://github.com/Siphe247/Football-League-tables/blob/ecc3d428cd5db1ef3f1a57b9e53626e72d03ccf0/LaLiga%202024-25%20Table.png)
 
+UEFA Champions League🇪🇺
+![image_alt](https://github.com/Siphe247/Football-League-tables/blob/d5f94b899084814f8f853800b243a486676d5fa8/UCL%202024-25%20Table.png)
 
 Betway Premiership🇿🇦
 ![image_alt](https://github.com/Siphe247/Football-League-tables/blob/ecc3d428cd5db1ef3f1a57b9e53626e72d03ccf0/Betway%20Premiership%202024-25%20Table.png)
